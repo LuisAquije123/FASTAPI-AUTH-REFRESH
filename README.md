@@ -69,7 +69,7 @@ pip install -r requirements.txt
 
 ### 3️⃣ Variables de entorno
 
-Crear un archivo .env en la raíz del proyecto:
+Crear un archivo .env en la raíz del proyecto "/app":
 
 ```code
 # DATABASE
